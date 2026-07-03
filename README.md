@@ -1,16 +1,20 @@
-## Hi there 👋
+## Oi, eu sou a Thalyta 👋
 
-<!--
-**Thalytapertico/thalytapertico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou comunicadora, especialista em eventos, marca e comunicação e estou construindo minha carreira na intersecção entre marketing e tecnologia.
 
-Here are some ideas to get you started:
+Comecei na comunicação e no marketing estratégico. Hoje meu foco é MARTECH: usar automação, dados e IA pra fazer marketing com mais método e mais resultado. Se você quiser entender como cheguei até aqui, escrevi sobre isso https://web.dio.me/articles/achei-que-aos-30-ja-era-tarde-para-comecar-na-tecnologia-eu-estava-errada-5d946766a418?back=/articles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### No que eu trabalho
+
+- Estratégia de marca e posicionamento
+- Estratégia de conteúdo e social media
+- Organização de eventos
+- Automação e IA aplicadas ao marketing
+
+### O que você encontra aqui
+
+Este perfil reúne projetos que mostram como eu penso e entrego. Tem case de estratégia, documentação técnica de eventos, sistemas de processo e experimentos com IA aplicada ao marketing. Cada projeto tem seu próprio README explicando o contexto e o resultado.
+
+### Vamos conversar
+
+- LinkedIn: [Thalyta Pértico](https://www.linkedin.com/in/thalyta-pertico-marketing/)
